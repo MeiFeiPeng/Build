@@ -1,0 +1,12 @@
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.csprojResolveAssemblyReference.cache
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.MainForm.resources
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.Properties.Resources.resources
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.csproj.GenerateResource.Cache
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\FeiFei.Demo.exe.config
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\FeiFei.Demo.exe
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\FeiFei.Demo.pdb
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\FeiFei.Log.dll
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\log4net.dll
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\bin\Debug\FeiFei.Log.pdb
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.exe
+C:\Users\FeiPengMei\Documents\GitHub\MyProject\FeiFei\FeiFei.Demo\obj\Debug\FeiFei.Demo.pdb

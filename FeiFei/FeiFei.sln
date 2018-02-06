@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeiFei.Log", "FeiFei.Log\FeiFei.Log.csproj", "{317B8D7D-182F-4288-90CE-11982CF72544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeiFei.Demo", "FeiFei.Demo\FeiFei.Demo.csproj", "{44391531-F089-44C9-B0F9-1CBE24BE4A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317B8D7D-182F-4288-90CE-11982CF72544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317B8D7D-182F-4288-90CE-11982CF72544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317B8D7D-182F-4288-90CE-11982CF72544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317B8D7D-182F-4288-90CE-11982CF72544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44391531-F089-44C9-B0F9-1CBE24BE4A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44391531-F089-44C9-B0F9-1CBE24BE4A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44391531-F089-44C9-B0F9-1CBE24BE4A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44391531-F089-44C9-B0F9-1CBE24BE4A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
